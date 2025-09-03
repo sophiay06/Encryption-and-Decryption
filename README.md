@@ -1,9 +1,8 @@
 ## Encryption/Decryption Project
-Andhiya Madamala and Sophia Yang
 
-We have carried out the implementation of encryption/decryption of data in text files by utilizing a secret key provided by the user.
+This project carried out the implementation of encryption/decryption of data in text files by utilizing a secret key provided by the user.
 
-Features of our Project
+Features
 - Encryption converts data from text file to encrypted text using a secret key.
 - Decryption carries out the reverse process and converts the text back into plain text using the same key.
 - We have utilized 4 files for this project, data.txt, data1.txt, key.txt, runTests.txt from which we read input and write output into.
